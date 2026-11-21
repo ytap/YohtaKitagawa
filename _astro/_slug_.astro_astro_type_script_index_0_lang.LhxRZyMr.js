@@ -1,0 +1,1 @@
+import{initElementBorder as t,initElementUnderline as o}from"./projectCardBorder.BOw6D2s4.js";function n(){document.querySelectorAll(".bordered-block").forEach(e=>t(e)),document.querySelectorAll(".section-heading, .one-liner").forEach(e=>o(e))}document.addEventListener("astro:page-load",n);document.readyState==="loading"?document.addEventListener("DOMContentLoaded",n):n();
